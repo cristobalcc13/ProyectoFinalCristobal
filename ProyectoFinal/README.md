@@ -12,7 +12,6 @@
 
 #Para ejecutar
 #1. Abrir la terminal - bash 
-#2. Cambiar de rama: git checkout branch-cristobal
 #3. Instalar dependencias: uv sync
 #4. En el terminal, ingresar lo siguiente: uv run uvicorn ProyectoFinal.main:app --reload
 #5. Abrir en el navegador los siguientes enlaces:
